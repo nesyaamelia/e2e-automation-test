@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ec16bd8-1591-4fbc-88aa-c33d72d414e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83093b3f-2665-4193-9afc-d9c14859fb6e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'toko sunday 2'</defaultValue>
+      <description></description>
+      <id>83093b3f-2665-4193-9afc-d9c14859fb6e</id>
+      <masked>false</masked>
+      <name>nama_toko</name>
+   </variable>
+</TestCaseEntity>
